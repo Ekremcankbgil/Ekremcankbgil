@@ -54,9 +54,9 @@
 ---
 
 ## 📫 İletişim
-- 📧 Mail: **mailadresin@example.com**
-- 💼 LinkedIn: **https://linkedin.com/in/kullaniciadin**
-- 🌐 GitHub: **https://github.com/KULLANICI_ADIN**
+- 📧 Mail: **ekremcankbgil@gmail.com**
+- 💼 LinkedIn: **linkedin.com/in/ekrem-can-kabaağıl-0127b5333**
+- 🌐 GitHub: **https://github.com/Ekremcankbgil**
 
 ---
 
