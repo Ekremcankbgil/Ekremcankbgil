@@ -38,8 +38,8 @@
 
 ## 📊 GitHub İstatistiklerim
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=KULLANICI_ADIN&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=KULLANICI_ADIN&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ekremcankbgil&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ekremcankbgil&layout=compact)
 
 > 🔁 `KULLANICI_ADIN` yazan yerlere GitHub kullanıcı adını eklemeyi unutma.
 
